@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "django_settings": "djangozappatute.settings",
+        "profile_name": "personal",
+        "project_name": "djangozappatute",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-ux9pctyqt"
+    }
+}
